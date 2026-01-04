@@ -10,6 +10,9 @@
         public int CategoryId { get; set; }
         public string? ImagePath { get; set; }
         public int Rating { get; set; }
+
+        public List<int> TagIds { get; set; }
+        public IFormFile Image { get; internal set; }
     }
 }
 

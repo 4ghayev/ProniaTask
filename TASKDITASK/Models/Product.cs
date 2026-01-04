@@ -21,5 +21,7 @@ namespace TASKDITASK.Models
         public int CategoryId { get; set; }
 
         public int Rating { get; set; }
+
+        public ICollection<ProductTag> ProductTags { get; set; }
     }
 }
