@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huawei\\Desktop\\AKA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\viewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\viewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\areas\\admin\\controllers\\productcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\areas\\admin\\controllers\\productcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\viewmodels\\shopproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\viewmodels\\shopproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\taskditask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\taskditask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\task_readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\task_readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|c:\\users\\huawei\\desktop\\aka\\taskditask\\migrations\\20260104111432_addratingtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B45A7-9925-4E34-9929-56428CFDCF95}|TASKDITASK\\TASKDITASK.csproj|solutionrelative:taskditask\\migrations\\20260104111432_addratingtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "TASKDITASK\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "TASKDITASK\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T13:27:42.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASKDITASK\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "TASKDITASK\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T13:20:02.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "TASKDITASK\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "TASKDITASK\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:17:53.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\ViewModels\\ShopProductVM.cs",
+              "RelativeDocumentMoniker": "TASKDITASK\\ViewModels\\ShopProductVM.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\ViewModels\\ShopProductVM.cs",
+              "RelativeToolTip": "TASKDITASK\\ViewModels\\ShopProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:17:19.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASKDITASK\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TASKDITASK\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T13:15:08.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "TASKDITASK\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "TASKDITASK\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T13:13:11.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\ViewModels\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "TASKDITASK\\ViewModels\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\ViewModels\\ProductCreateVM.cs*",
+              "RelativeToolTip": "TASKDITASK\\ViewModels\\ProductCreateVM.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:18:31.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TASK_README.txt",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASK_README.txt",
+              "RelativeDocumentMoniker": "TASKDITASK\\TASK_README.txt",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASK_README.txt",
+              "RelativeToolTip": "TASKDITASK\\TASK_README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-04T11:15:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260104111432_AddRatingToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Migrations\\20260104111432_AddRatingToProduct.cs",
+              "RelativeDocumentMoniker": "TASKDITASK\\Migrations\\20260104111432_AddRatingToProduct.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Migrations\\20260104111432_AddRatingToProduct.cs",
+              "RelativeToolTip": "TASKDITASK\\Migrations\\20260104111432_AddRatingToProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:14:32.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TASKDITASK\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Models\\Product.cs",
+              "RelativeToolTip": "TASKDITASK\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:13:24.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContoller.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Controllers\\ProductContoller.cs",
+              "RelativeDocumentMoniker": "TASKDITASK\\Areas\\Admin\\Controllers\\ProductContoller.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\Areas\\Admin\\Controllers\\ProductContoller.cs",
+              "RelativeToolTip": "TASKDITASK\\Areas\\Admin\\Controllers\\ProductContoller.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAawD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T00:33:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TASKDITASK.csproj",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASKDITASK.csproj",
+              "RelativeDocumentMoniker": "TASKDITASK\\TASKDITASK.csproj",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASKDITASK.csproj",
+              "RelativeToolTip": "TASKDITASK\\TASKDITASK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T00:33:33.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

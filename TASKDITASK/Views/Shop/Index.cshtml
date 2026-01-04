@@ -1,0 +1,50 @@
+﻿@using TASKDITASK.ViewModels
+@model List<ShopProductVM>
+
+<div class="shop-area section-space-y-axis-100">
+    <div class="container">
+        <div class="row">
+
+            @foreach (var product in Model)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="product-item">
+                        <div class="product-img">
+                            <a href="#">
+                                <img class="primary-img"
+                                     src="~/assets/images/website-images/@product.ImagePath"
+                                     alt="Product Image">
+                            </a>
+                        </div>
+
+                        <div class="product-content">
+                            <a class="product-name" href="#">
+                                @product.Name
+                            </a>
+
+                            <div class="price-box pb-1">
+                                <span class="new-price">$@product.Price</span>
+                            </div>
+                            <div class="rating-box">
+                                <ul>
+                                    @for (int i = 1; i <= 5; i++)
+                                    {
+                                        if (i <= product.Rating)
+                                        {
+                                            <li><i class="fa fa-star"></i></li>
+                                        }
+                                        else
+                                        {
+                                            <li><i class="fa fa-star-o"></i></li>
+                                        }
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
