@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASKDITASK.csproj": {}
+    "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASKDITASK.csproj": {
+    "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASKDITASK.csproj",
+        "projectUniqueName": "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj",
         "projectName": "TASKDITASK",
-        "projectPath": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\TASKDITASK.csproj",
+        "projectPath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj",
         "packagesPath": "C:\\Users\\huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huawei\\Desktop\\AKA\\TASKDITASK\\obj\\",
+        "outputPath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.22, )"
