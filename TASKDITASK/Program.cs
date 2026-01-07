@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Pronia_MPA101.Services;
+using TASKDITASK.Abstraction;
 using TASKDITASK.Contexts;
 using TASKDITASK.Models;
 
@@ -7,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IEmailService, EmailService>();
 
 builder.Services.AddDbContext<AppDbContext>(option => 
 {
