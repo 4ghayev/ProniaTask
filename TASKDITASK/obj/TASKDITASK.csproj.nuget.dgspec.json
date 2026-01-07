@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj": {}
+    "C:\\Users\\huawei\\Source\\Repos\\ProniaTask\\TASKDITASK\\TASKDITASK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj": {
+    "C:\\Users\\huawei\\Source\\Repos\\ProniaTask\\TASKDITASK\\TASKDITASK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj",
+        "projectUniqueName": "C:\\Users\\huawei\\Source\\Repos\\ProniaTask\\TASKDITASK\\TASKDITASK.csproj",
         "projectName": "TASKDITASK",
-        "projectPath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj",
+        "projectPath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTask\\TASKDITASK\\TASKDITASK.csproj",
         "packagesPath": "C:\\Users\\huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\obj\\",
+        "outputPath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTask\\TASKDITASK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hu6AUp1CKA4=",
+  "dgSpecHash": "W1dc03W/PS4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTaskkkk\\TASKDITASK\\TASKDITASK.csproj",
+  "projectFilePath": "C:\\Users\\huawei\\Source\\Repos\\ProniaTask\\TASKDITASK\\TASKDITASK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\huawei\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\huawei\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

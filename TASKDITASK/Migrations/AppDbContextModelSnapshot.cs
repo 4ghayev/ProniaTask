@@ -234,7 +234,8 @@ namespace TASKDITASK.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
 
                     b.HasKey("Id");
 
@@ -253,8 +254,8 @@ namespace TASKDITASK.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
 
                     b.Property<string>("ImagePath")
                         .IsRequired()
@@ -262,7 +263,8 @@ namespace TASKDITASK.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
 
                     b.Property<decimal>("Price")
                         .HasPrecision(10, 2)
@@ -275,7 +277,10 @@ namespace TASKDITASK.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", t =>
+                        {
+                            t.HasCheckConstraint("CK_Product_Price", "[Price]>0");
+                        });
                 });
 
             modelBuilder.Entity("TASKDITASK.Models.ProductTag", b =>
@@ -400,7 +405,7 @@ namespace TASKDITASK.Migrations
                     b.HasOne("TASKDITASK.Models.Category", "Category")
                         .WithMany("Products")
                         .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Category");
